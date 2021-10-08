@@ -1,0 +1,33 @@
+40	RASID
+50	HASED
+100	BAPPY
+40	JINET
+0	HOSEN
+10	SAM
+60	RAKIB
+50	HASEM
+30	JIBON
+0	FARUK
+10	KAJOL
+90	JUBAYER
+70	Hemayet
+60	Romas
+80	Topon
+60	mainul
+140	MAINUL
+140	
+380	Mainul\
+190	mainul
+290	mainul
+410	Rahim
+
+230	jhh
+280	sowpnil roy
+250	Sowpnil Roy
+210	SR
+110	Roy
+140	,,
+310	Hridi
+350	Roy
+350	Roy
+30	yyyyy
